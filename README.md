@@ -1,2 +1,1 @@
-# vue-crud-app
-
+![app_demo](./gif/demo.gif)
